@@ -10,7 +10,7 @@ first_name: Leo
 last_name: Hanxu
 
 # Status emoji
-status: 😆
+status: ''
   icon: 🔎
 
 # Is this the primary user of the site?
