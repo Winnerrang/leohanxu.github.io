@@ -54,7 +54,7 @@ education:
   - area: PhD
     institution: University of Waterloo
     date_start: 2025-01-01
-    date_end: ''
+    date_end: 2029-12-31
     summary: |
       Research in physics based animation particularly in fluid simulation. Supervised by wonderful [Professor Christopher Batty](https://cs.uwaterloo.ca/~c2batty/). 
     #button:
