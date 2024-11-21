@@ -63,7 +63,7 @@ education:
   - area: Bachelor in Computer Engineering
     institution: University of Toronto
     date_start: 2019-09-01
-    date_end: 2024-4-30
+    date_end: 2024-04-30
     summary: |
       GPA: 3.86/4.0
 
