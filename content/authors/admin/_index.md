@@ -100,7 +100,7 @@ skills:
       - name: C++, C#
         description: ''
         percent: ''
-        icon: code-bracket
+        icon: ''
       - name: Unity
         description: ''
         percent: ''
