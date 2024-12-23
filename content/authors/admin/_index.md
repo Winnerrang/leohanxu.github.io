@@ -51,7 +51,7 @@ interests:
   - Fluid Simulation
 
 education:
-  - area: PhD
+  - area: PhD in Computer Science
     institution: University of Waterloo
     date_start: 2025-01-01
     date_end: 2029-12-31
